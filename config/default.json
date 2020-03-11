@@ -1,0 +1,6 @@
+{
+    "port":5000,
+    "jwtSecret":"lolkek",
+    "mongoUrl":"mongodb+srv://mqwerty:zxc123@cluster0-ui1xa.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
